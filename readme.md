@@ -9,5 +9,5 @@
 
 ### Screenshots 
 
-![word counter](./images/1.png)
-![word counter](./images/2.png)
+![](./images/1.png)
+![](./images/2.png)
