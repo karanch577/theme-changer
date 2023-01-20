@@ -1,0 +1,24 @@
+.content {
+    margin: 5em 3em;
+}
+
+.toggler {
+    width: 80px;
+    height: 40px;
+    background-color: #bfbfbf;
+    margin-left: auto;
+    border-radius: 106px 90px 105px 94px / 77px 80px 82px 75px;
+}
+
+.ball {
+    width: 39px;
+    height: 39px;
+    border-radius: 50%;
+    background-color: azure;
+    transition: transform ease-in-out 100ms;
+}
+
+.dark {
+    transform: translateX(40px);
+}
+
